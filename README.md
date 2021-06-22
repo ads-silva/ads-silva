@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ads-silva?tab=repositories](https://github.com/ads-silva?tab=repositories)
 
-- 💬 Ask me about **NodeJS, MongoDb and TypeScript**
+- 💬 Ask me about **anything, I am happy to help;**
 
 - 📫 How to reach me **dautodroid@gmail.com**
 
