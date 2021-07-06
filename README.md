@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ads-silva&label=Profile%20views&color=0e75b6&style=flat" alt="ads-silva" /> </p>
 
-- 🔭 I’m currently working on [youtube-flutter-sample](https://github.com/ads-silva/youtube-flutter-sample)
+- 🔭 I’m currently working on [youtube_flutter_sample](https://github.com/ads-silva/youtube_flutter_sample)
 
 - 🌱 I’m currently learning **Flutter 2.0**
 
