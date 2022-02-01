@@ -1,13 +1,9 @@
 <h1 align="left">Hi 👋, I'm Adauto de Souza Silva</h1>
-<h3 align="left">A passionate backend and frontend developer from Brazil</h3>
+<h3 align="left">A passionate backend and frontend developer from Portugal</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ads-silva&label=Profile%20views&color=0e75b6&style=flat" alt="ads-silva" /> </p>
 
 - 🔭 I’m currently working on [youtube_flutter_sample](https://github.com/ads-silva/youtube_flutter_sample)
-
-- 🌱 I’m currently learning **Flutter 2.0**
-
-- 🤝 I’m looking for help with [clean-flutter-app](https://github.com/ads-silva/clean-flutter-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ads-silva?tab=repositories](https://github.com/ads-silva?tab=repositories)
 
