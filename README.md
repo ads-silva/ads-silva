@@ -3,8 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ads-silva&label=Profile%20views&color=0e75b6&style=flat" alt="ads-silva" /> </p>
 
-- 🔭 I’m currently working on [youtube_flutter_sample](https://github.com/ads-silva/youtube_flutter_sample)
-
 - 👨‍💻 All of my projects are available at [https://github.com/ads-silva?tab=repositories](https://github.com/ads-silva?tab=repositories)
 
 - 💬 Ask me about **anything, I am happy to help;**
