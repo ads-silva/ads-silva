@@ -47,12 +47,8 @@
 	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 	<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
 </p>
-<p> 
-  <img align="center"  width="47%" height="290px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ads-silva&show_icons=true&locale=en&layout=compact" alt="ads-silva" />
-</p>
 <p style="width: 100%">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ads-silva&show_icons=true&locale=en" alt="ads-silva" />
-  <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ads-silva&" alt="ads-silva" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ads-silva&" alt="ads-silva" />
 </p>
 
 
